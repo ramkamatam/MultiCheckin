@@ -1,2 +1,6 @@
 File added to master branch
+<<<<<<< HEAD
 Changes made to V3 branch
+=======
+Changes made to V2
+>>>>>>> V2
